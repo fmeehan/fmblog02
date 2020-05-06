@@ -1,22 +1,17 @@
-Title:
-_**Caramel à Bibi**_
-Author: François Meehan 
+# Caramel à Bibi
+
+## Author François Meehan 
 Contact:
   francois@francoismeehan.me 
   Les Cèdres, Québec 
-Draft date: 2020/05/04
+Draft date: 2020/05/05
   
-= Étapes de la fabrication de ma recette de caramel
+## Étapes de la fabrication de ma recette de caramel
 
-Cut to: 
+zoom in sur cover image de l'article
 
-INT. Intro cover image 
+> Faire son Caramel
 
->Faire son Caramel<
-
-[[zoom in sur caramel cover page]]
-
-Fade to: 
 
 INT. Images des ingrédients
 
