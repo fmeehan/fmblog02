@@ -1,11 +1,74 @@
 [
     {
+        "type": "Group",
+        "name": "Design",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "jUh4OgBs8owkY2J5"
+    },
+    {
+        "type": "Group",
+        "name": "Config",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "9sT7nGbkUS3jxVZi"
+    },
+    {
+        "type": "Group",
+        "name": "Content",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "YIi5nHduTyD0fM2E"
+    },
+    {
+        "type": "Directory",
+        "name": "/home/fmeehan/fmblog/fmBlog02/src/gatsby-theme-chronoblog",
+        "parent_id": "jUh4OgBs8owkY2J5",
+        "workspaceRoot": "/home/fmeehan/fmblog/fmBlog02",
+        "workspacePath": "src/gatsby-theme-chronoblog",
+        "id": "WfU93gM7bJlzEYOp"
+    },
+    {
+        "type": "Directory",
+        "name": "/home/fmeehan/fmblog/fmBlog02/src/gatsby-plugin-theme-ui",
+        "parent_id": "jUh4OgBs8owkY2J5",
+        "workspaceRoot": "/home/fmeehan/fmblog/fmBlog02",
+        "workspacePath": "src/gatsby-plugin-theme-ui",
+        "id": "8CvhqMHiWZ3Bna4c"
+    },
+    {
         "type": "Directory",
         "name": "/home/fmeehan/fmblog/fmBlog02/node_modules/gatsby-theme-chronoblog",
-        "parent_id": null,
+        "parent_id": "jUh4OgBs8owkY2J5",
         "workspaceRoot": "/home/fmeehan/fmblog/fmBlog02",
         "workspacePath": "node_modules/gatsby-theme-chronoblog",
-        "id": "pzFCZ3DHmkXoI0QN",
-        "label": null
+        "id": "WBr8FnpVPX6f0TtH"
+    },
+    {
+        "type": "Directory",
+        "name": "/home/fmeehan/fmblog/fmBlog02/content",
+        "parent_id": "YIi5nHduTyD0fM2E",
+        "workspaceRoot": "/home/fmeehan/fmblog/fmBlog02",
+        "workspacePath": "content",
+        "id": "Enxvrc5KtHQjBCuO"
+    },
+    {
+        "type": "Directory",
+        "name": "/home/fmeehan/fmblog/fmBlog02/src/pages",
+        "parent_id": "YIi5nHduTyD0fM2E",
+        "workspaceRoot": "/home/fmeehan/fmblog/fmBlog02",
+        "workspacePath": "src/pages",
+        "id": "eRE6IuHzJpx2oSFP"
+    },
+    {
+        "type": "Directory",
+        "name": "/home/fmeehan/fmblog/fmBlog02/node_modules/@theme-ui",
+        "parent_id": "jUh4OgBs8owkY2J5",
+        "workspaceRoot": "/home/fmeehan/fmblog/fmBlog02",
+        "workspacePath": "node_modules/@theme-ui",
+        "id": "1h824MKN0AFdpvj7"
     }
 ]

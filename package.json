@@ -23,7 +23,9 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "rebass": "^4.0.7",
-    "typescript": "^3.8.3"
+    "recharts": "^1.8.5",
+    "typescript": "^3.8.3",
+    "victory": "^34.3.5"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
