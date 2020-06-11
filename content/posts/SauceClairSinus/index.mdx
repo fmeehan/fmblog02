@@ -9,13 +9,13 @@ draft: true
 hide: true
 ---
 
-## J'ai le pouce vert
+## J'ai le pouce vert, enfin peu-être rouge...
 
-Depuis quelques années, je fait pousser des plants de piment forts dans la cour. J'adore vraiment, ou devrais-je dire suis *accro* de la saveur des piment forts fraichement coupé et l'effet de la chaleur *Piquante* qu'ils procurent. 
+Depuis quelques années, je fait pousser des plants de piment forts dans la cour. J'adore vraiment, ou devrais-je dire suis *accro* à l'arome et la saveur des piment forts fraichement coupé et l'effet de la chaleur *Piquante* qu'ils procurent.
 
-Aromes et saveurs doivent s'exprimer en une seconde ou deux avant que la cavalerie vienne prendre l'assaut du palais.
+Les saveurs étant furtives, pressé par le temps elles doivent s'exprimer en une seconde ou deux avant que la cavalerie vienne prendre l'assaut du palais.
 
-L'an passé, comme à l'habitude j'ai fait pousser des plants de piments [^Habanero] et pour la première fois des piments [^Bhut_jolokia] mieux connue sous le nom de Ghosts, savoureux et puissant.
+L'an passé, comme à l'habitude j'ai fait pousser des plants de piments [^Habanero] et pour la première fois des piments [^Bhut_jolokia] mieux connue sous le nom de Ghosts, tellement savoureux et puissant.
 
 import { Flex, Text, Image, Card } from 'rebass';
 
@@ -29,25 +29,7 @@ import { Flex, Text, Image, Card } from 'rebass';
 </Flex>
 
 <br/>
-
-
-import Warningfm from './important.png';
-
-<Box
-  sx={{
-    px: 4,
-    py: 6,
-    backgroundImage: `url(${Warningfm})`,
-    backgroundSize: 'cover',
-    borderRadius: 8,
-    color: 'white',
-    bg: 'gray',
-  }}>
-    <Text>
-      Bhut Jolokia - Piment Ghost
-    </Text>
-</Box>
-
+<br/>
 
 
 Pour vous donner une idée, voici un tableau de piments et sauce avec leur puissance exprimé en unités [^Scoville], échelle officielle de mesure de la force des piments.
@@ -171,6 +153,33 @@ import { Label, Checkbox } from '@rebass/forms'
 ## Préparation 
 
 <br/>
+<br/>
+
+import Warningfm from './important.png';
+
+<Flex flexWrap='grid' mx={15} >
+  <Box width={1/4}
+    sx={{
+        px: 4,
+        py: 2,
+        backgroundImage: `url(${Warningfm})`,
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        borderRadius: 3,
+        bg: 'secondary',
+      }}>
+  </Box>
+	<Box width={3/4} >
+		<Text p={1} px='4' bg='muted' fontSize={3} fontStyle='oblique' >
+      "L'utilisation de gants en latex est fortement recommandé !"
+    </Text>
+  </Box>
+</Flex>
+
+<br/>
+
+<br/>
+
 
 C'est vraiment simple.
 
