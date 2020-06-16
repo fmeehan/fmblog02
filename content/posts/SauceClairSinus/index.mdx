@@ -1,24 +1,23 @@
 ---
 title: Sauce forte pour amateur sérieux
-date: 2020-06-03
+date: 2020-06-16
 cover: sauceClairSinusCover.png
-description: Recette de sauce au piments fort, très fort
+description: Recette de sauce aux piments forts, très forts
 slug: sauceClairSinus
 tags: ['post', 'recette', 'piment']
 draft: true
 hide: true
 ---
 
-## J'ai le pouce vert, enfin peu-être rouge...
+## J'ai le pouce vert et rouge...
 
-Depuis quelques années, je fait pousser des plants de piment forts dans la cour. J'adore vraiment, ou devrais-je dire suis *accro* aux âromes et la saveur des piment forts fraichement coupé, l'effet de la chaleur *Piquante* et les [^Endorphines] qui procurent.
+Depuis quelques années, je cultive, 2 plant à la fois, des piments forts dans notre cour. J'adore vraiment, ou devrais-je dire suis devenu *accro* aux arômes et saveurs de piments forts fraichement coupés,  l'effet de la chaleur *Piquante* et les [^Endorphines] qu'ils procurent.
 
-Lorsqu’arrive la fin de la saison, j'utilise les piments en surplus pour la préparation d'une sauce d’inspiration [^Sriracha]: *la Sauce Clair Sinus*.
+Lorsque la fin de la saison est arrivée, j'utilise les piments en surplus pour la préparation d'une sauce d’inspiration [^Sriracha]: *la Sauce Clair Sinus*.
 
-En cuisine, il faut constamment goûter ce que l'on fait pour ajuster la recette, disons que cela représente un beau défi pour une sauce à base de piments si forts, **j’ai du changer de t-shirt!** à la fin.
+En cuisine, il faut constamment goûter ce que l'on fait pour ajuster les saveurs, disons que cela représente un beau défi pour une sauce à base de piments puissants, en fait **j’ai du changer de t-shirt!** à la fin de la recette.
 
-
-L'an passé, comme à l'habitude j'ai fait pousser des plants de piments [^Habanero] et pour la première fois des piments [^Bhut_jolokia] mieux connue sous le nom de Ghosts, savoureux et puissant.
+L'an passé, j'ai fait pousser des plants de piments [^Habanero] et pour la première fois des piments [^Bhut_jolokia] mieux connue sous le nom de Ghosts, savoureux et très *chaleureux*.
 
 import { Flex, Text, Image, Card } from 'rebass';
 
@@ -49,7 +48,7 @@ Pour vous donner une idée, voici un tableau de piments et sauce avec leur puiss
 |  Nom  |  Unités Scoville  |
 |:---| :---|
 | Sauce Sriracha   |  2,500  |
-| Piment jalepeno   |  3,000  |
+| Piment jalapeño   |  3,000  |
 | Sauce Tabasco Rouge   |  5,000  |
 | Piment Habanero   |  300,000  |
 | Piment Bhut Jolokia   |  1,000,000    |
@@ -58,16 +57,34 @@ Pour vous donner une idée, voici un tableau de piments et sauce avec leur puiss
 
 <br/>
 
-## Retarder la cavalerie 
+## Retarder la cavalerie
+<br/>
 
+Les saveurs étant furtives, pressé par le temps elles doivent s’exprimer en une seconde ou deux avant que la cavalerie et sa [^capsaïcine] vienne prendre l’assaut du palais.
 
-Les saveurs sont furtives, pressé par le temps elles doivent s’exprimer en une seconde ou deux avant que la cavalerie vienne prendre l’assaut du palais.
+Ce qui fait que l'objectif des ingrédients choisi est de retarder quelque peu l'effet de la chaleur tout en y intégrant de nouvelles saveurs.
 
-L'objectif des ingrédients choisi est de retarder l'effet de la chaleur. 
+<Flex>
+  <Card width={[ 256, 320 ]} mx='auto'>
+    <Image src='sauceClairSinus02.jpg'/>
+    <Text>
+      Sauce Clair Sinus
+    </Text>
+  </Card>
+</Flex>
 
+<br/>
+<br/>
+
+Cette sauce est bien utile pour donner du caractère aux soupes, sauces, tacos, je l'utilise également en trempette, à très petites doses il va s'en dire.
 
 ## Les Ingrédients
 <br/>
+
+Cette combinaison d'ingrédients est issue de recherches, d'essais et sudation que j'ai faits au fil des ans.
+
+Prendre note qu'aucun préservatif n'est utilisé, qu'il est préférable de congeler les pots qui seront consommés ultérieurement.
+
 
 ### Légumes
 <br/>
@@ -91,6 +108,7 @@ import { Label, Checkbox } from '@rebass/forms'
     <Checkbox id='car' name='Carotte'/>
     1 Carotte </Label>
 </Box>
+<br/>
 
 ### Conserves
 <br/>
@@ -153,28 +171,40 @@ import { Label, Checkbox } from '@rebass/forms'
 
 <br/>
 
-## Préparation 
+<Flex>
+  <Card width={[ 256, 320 ]} mx='auto'>
+    <Image src='sauceClairSinus.png'/>
+    <Text>
+      Sauce Clair Sinus
+    </Text>
+  </Card>
+</Flex>
 
+<br/>
+<br/>
+
+## Préparation 
 <br/>
 <br/>
 
 import Warningfm from './important.png';
 
-<Flex flexWrap='grid' mx={15} >
+<Flex flexWrap='grid' mx={10} >
   <Box width={1/4}
     sx={{
-        px: 4,
-        py: 2,
+        p: 3,
+        px: 5,
+        py: 4,
         backgroundImage: `url(${Warningfm})`,
-        backgroundSize: 'cover',
+        backgroundSize: 'auto',
         backgroundRepeat: 'no-repeat',
         borderRadius: 3,
-        bg: 'secondary',
+        bg: 'background',
       }}>
   </Box>
 	<Box width={3/4} >
-		<Text p={1} px='4' bg='muted' fontSize={3} fontStyle='oblique' >
-      "L'utilisation de gants en latex est fortement recommandé !"
+		<Text p={1} px='3' py='4' bg='muted' fontSize={4} fontStyle='oblique' fontWeight='bold' >
+      "L'utilisation de gants en latex est fortement recommandée !"
     </Text>
   </Box>
 </Flex>
@@ -186,14 +216,22 @@ import Warningfm from './important.png';
 
 C'est vraiment simple.
 
+1. Passer les piments, l'ail, carotte et cèleri au robot culinaire.
+1. Déposer  dans une casserole de 2 ou 3 litres de capacité.
+1. Régler l'intensité à feu doux pour tranquillement apporter le mélange à ébullition.
+1. Ajouter graduellement le reste des ingrédients.
+1. Goûter et regoûter pour faire des ajustements s'il y a lieu
+1. Laisser mijoter les ingrédients pour environ une dizaine de minutes, pas plus.
+1. Versez dans des pots, dégustez et transpirez... 
+
+<br/>
+<br/>
+
+*François Meehan*
 
 
-1. Dans un premier temp, préparer une casserolle de 2 ou 3 litres de capacité.
 
-1. Passer les piments, l'ail, carotte et celeri au robot et déposer le tout dans la casserolle.
-
-
-
-[^Bhut_jolokia]: Piment originaire de [l'Assam en Inde](https://fr.wikipedia.org/wiki/Bhut_Jolokia) 
+[^Bhut_jolokia]: Bhut Jolokia, piment originaire de [l'Assam en Inde](https://fr.wikipedia.org/wiki/Bhut_Jolokia)
 [^Sriracha]: Préparation de [la Sauce Sriracha](https://en.wikipedia.org/wiki/Srircha_sauce_(Huy_Fong_Foods)#Preparation) Sriracha
 [^Endorphines]: Les piments pour [vaincre le stress](https://www.doctissimo.fr/nutrition/diaporamas/alimentation-et-sante/les-piments-pour-vaincre-le-stress) par les endorphines qu'ils contiennent
+[^capsaïcine]: Composé actif des [piments forts](https://fr.wikipedia.org/wiki/Capsa%C3%AFcine)
