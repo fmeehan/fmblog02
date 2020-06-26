@@ -1,5 +1,5 @@
 ---
-title: Pas la meilleure des idées 
+title: Oldnote 
 date: 2020-06-26
 tags: ['note', 'photo']
 draft: true

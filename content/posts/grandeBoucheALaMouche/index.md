@@ -1,6 +1,9 @@
 ---
 title: Une grande bouche à la mouche
 date: 2020-06-21
+cover: grandBoucheALaMouche.jpg
+description: Premier achigan de l'année, une grande bouche!
+slug: grandBoucheALaMouche
 tags: ['note', 'pêche', 'photo']
 draft: false
 hide: false
