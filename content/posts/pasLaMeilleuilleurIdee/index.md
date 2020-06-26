@@ -1,9 +1,9 @@
 ---
 title: Pas la meilleure idée 
-date: 2020-06-26
+date: 2020-06-27
 slug: pasLaMeilleureIdeee
 cover: pasLaMeilleuridee.png
-description: comment se retrouver dans les framboisiers
+description: Comment se retrouver dans les framboisiers
 tags: ['note', 'manon', 'photo']
 draft: false
 hide: false
@@ -31,6 +31,16 @@ Je saute dans les arbustes, petit problème ce sont des framboisiers. Manon n'a 
 <br/>
 
 *François*
+<br/>
+
+## Journal de Manon
+
+> *"Il fait beau soleil donc j'ai réveillé Papy et Mamy à 5h30 du matin, faut bien profiter de la journée. J'ai fait faire la première marche à Papy. Il a eu l'idée de se cacher de moi.  Mais pas longtemps car, il y avait des ronces et il s'est grafigné les jambes sur son coup de soleil. Ce n'était pas gentil ça lui apprendra."*
+> 
+> Texte de Lise
+
+<br/>
+<br/>
 
 [^Manon]: Voici [Manon](https://flic.kr/p/2ip9Ros)
 
