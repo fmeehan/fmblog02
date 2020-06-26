@@ -1,7 +1,7 @@
 ---
-title: Note Chronoblog
-date: 2016-01-01
-tags: ['note', 'project']
+title: Pas la meilleure des idées 
+date: 2020-06-26
+tags: ['note', 'photo']
 draft: true
 hide: true
 ---

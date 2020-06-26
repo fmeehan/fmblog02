@@ -1,7 +1,7 @@
 ---
 title: Une grande bouche à la mouche
 date: 2020-06-21
-tags: ['note', 'pêche']
+tags: ['note', 'pêche', 'photo']
 draft: false
 hide: false
 ---
