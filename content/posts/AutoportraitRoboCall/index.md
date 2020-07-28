@@ -13,7 +13,7 @@ hide: false
 
 Tandis que je faisais de la musique, mon téléphone qui est dans une autre pièce, s'est mis à sonné.
 
-Voulant malheureusement faire trop vite, c'est en sautant pas dessus le pitou dont j'ai la garde, que mon [^Quintus] est entré en collision sur une patte, de table.
+Voulant malheureusement faire trop vite, c'est en sautant pas dessus le pitou dont j'ai la garde, que mon Quintus[^1] est entré en collision sur une patte, de table.
 
 À coup de jurons bien sentis, je parviens à saisir mon portable pour prendre l'appel.
 
@@ -39,5 +39,5 @@ Tant qu'à faire mal, aussi bien être créatif.
 
 *François Meehan*
 
-[^Quintus]: Quintus est le nom de la petite orteil, [Les orteils ont un nom](https://jeretiens.net/quel-est-le-nom-des-orteils/)
+[^1]: Quintus est le nom de la petite orteil, [Les orteils ont un nom](https://jeretiens.net/quel-est-le-nom-des-orteils/)
 
