@@ -5,8 +5,8 @@ slug: pasLaMeilleureIdeee
 cover: pasLaMeilleuridee.png
 description: Comment se retrouver dans les framboisiers
 tags: ['note', 'manon', 'photo']
-draft: false
-hide: false
+draft: true
+hide: true
 ---
 
 En faisant la garde de Manon[^1], j'ai dû me lever à 5:00 pour aller promener Mademoiselle et tant qu'à faire, on a emprunté un sentier tout près, pas de laisse pour la Belle.
