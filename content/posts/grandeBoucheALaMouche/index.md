@@ -4,7 +4,7 @@ date: 2020-06-21
 cover: grandBoucheALaMouche.jpg
 description: Premier achigan de l'année, une grande bouche!
 slug: grandBoucheALaMouche
-tags: ['post', 'iPad', 'pêche', 'photo', 'iPhone']
+tags: ['post', 'ipad', 'pêche', 'photo', 'iphone']
 draft: false
 hide: false
 ---

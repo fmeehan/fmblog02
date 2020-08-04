@@ -4,7 +4,7 @@ date: 2020-07-11
 cover: AutoportraitRoboCall.png
 description: Collision entre ma petite orteil et une patte de table causé par un robocall
 slug: AutoportraitRoboCall
-tags: ['post', 'iPad', 'selfie', 'photo', 'iPhone']
+tags: ['post', 'ipad', 'selfie', 'photo', 'iphone']
 draft: false
 hide: false
 ---
