@@ -9,7 +9,9 @@ draft: false
 hide: false
 ---
 
-La récolte d'hier; piments Carolina Reaper[^1] et Chocolate Reaper[^2].
+La récolte de mes piments Carolina Reaper[^1] et Chocolate Reaper[^2] va très bien.
+
+Et ce n'est que le début.
 
 
 <br/>
