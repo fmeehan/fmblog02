@@ -1,5 +1,5 @@
 ---
-title: Récolte de piments fort, très fort
+title: Récolte de piments forts, très forts
 date: 2020-08-14
 cover: recolte082020.png
 description: Récolte de piments Carolina Reaper et Chocolate Reaper
