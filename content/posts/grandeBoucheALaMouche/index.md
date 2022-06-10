@@ -11,8 +11,8 @@ hide: false
 
 La pêche à l'achigan est maintenant ouverte! Une grande bouche à la mouche, ça part bien la saison!
 
-<br/>
-<br/>
+
+
 
 <Flex>
   <Card width={[ 256, 320 ]} mx='auto'>
@@ -22,8 +22,3 @@ La pêche à l'achigan est maintenant ouverte! Une grande bouche à la mouche, �
     </Text>
   </Card>
 </Flex>
-
-<br/>
-<br/>
-
-
