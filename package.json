@@ -7,7 +7,7 @@
   "license": "MIT",
   "author": "Ivan Ganev <ganevio92@gmail.com>",
   "scripts": {
-    "build": "export SET NODE_OPTIONS=GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
+    "build": "export SET NODE_OPTIONS=GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true&&gatsby build --log-pages",
     "clean": "gatsby clean",
     "start": "export SET NODE_OPTIONS=gatsby develop -H 0.0.0.0 -p 8000"
   },
